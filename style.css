@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: opx;
+    box-shadow: 5px 5px 5px pink;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy-right-footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 6;
+    text-align: center;
+}
+
+camera
+{
+    margin-top: 0px;
+}
